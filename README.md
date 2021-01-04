@@ -14,7 +14,7 @@ Lessons ([1](https://www.youtube.com/watch?v=uxoitgv5FWU&t=6s&ab_channel=WiMLDSS
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a) ![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a) ![Jupyter](https://img.shields.io/badge/Tools-JupyterNotebook-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a) ![QGIS](https://img.shields.io/badge/Tools-QGIS-informational?style=flat&logo=QGIS&logoColor=white&color=2bbc8a) ![Vi](https://img.shields.io/badge/Editor-Vi-informational?style=flat&logo=Vi&logoColor=white&color=2bbc8a) ![Tools](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a) ![Tools](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
 
 # Currently working on
-[O quindim](https://github.com/o-quindim) - coming soon!
+[O quindim](http://www.oquindim.com.br/) - coming soon!
 
 # Certificates
 - [Statistical Inference](https://www.coursera.org/account/accomplishments/certificate/ZNMM2JT65LBX)
