@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/priscilapcosta/) [![](https://img.shields.io/badge/-kaggle-lightblue)](https://www.kaggle.com/priscilaportela) [![](https://img.shields.io/badge/-resume-pink)](https://docs.google.com/document/d/1tW6au0FSB4STMS-EseIkj8Ex4lDiuOYO-6dnAggiB7I/edit#) 
+[![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/priscilapcosta/) [![](https://img.shields.io/badge/-kaggle-lightblue)](https://www.kaggle.com/priscilaportela)
 
 Hi!
 I'm currently a Data scientist at [Yuca](https://yuca.live/)
