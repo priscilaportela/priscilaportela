@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/priscilapcosta/) [![](https://img.shields.io/badge/-kaggle-lightblue)](https://www.kaggle.com/priscilaportela)
 
 Hi!
-I'm currently a Data scientist at [Yuca](https://yuca.live/)
+I'm currently a Data scientist at Luizalabs.
 
 # Projects/contributions
 Lessons ([1](https://www.youtube.com/watch?v=uxoitgv5FWU&t=6s&ab_channel=WiMLDSS%C3%A3oPaulo) and [2](https://www.youtube.com/watch?v=j1OYZJc9_RY&t=1140s&ab_channel=WiMLDSS%C3%A3oPaulo) on Linear Regression)
