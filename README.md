@@ -15,6 +15,7 @@ Lessons ([1](https://www.youtube.com/watch?v=uxoitgv5FWU&t=6s&ab_channel=WiMLDSS
 
 # Currently working on
 [O quindim](http://www.oquindim.com.br/) - coming soon!
+
 Unsupervised word embeddings to capture latent knowledge
 
 # Certificates
