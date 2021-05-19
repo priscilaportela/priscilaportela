@@ -21,3 +21,7 @@ Unsupervised word embeddings to capture latent knowledge
 # Certificates
 - [Statistical Inference](https://www.coursera.org/account/accomplishments/certificate/ZNMM2JT65LBX)
 - [Regression Models](https://www.coursera.org/account/accomplishments/certificate/D626JW36V67Q)
+
+# Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=priscilaportela)
+
