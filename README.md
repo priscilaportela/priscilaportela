@@ -1,6 +1,8 @@
 [![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/priscilapcosta/) [![](https://img.shields.io/badge/-kaggle-lightblue)](https://www.kaggle.com/priscilaportela)
 
-Hi!
+Hi! 👋
+
+
 I'm currently a Data scientist at Luizalabs.
 
 # Projects/contributions
